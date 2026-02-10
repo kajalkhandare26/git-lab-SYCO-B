@@ -2,3 +2,5 @@ welcome to git for 3rd time
 welcome to git for 4th time
 welcome to git for 5th time
 hello from feature-2 branch
+
+This line is added in my feature-2 branch
